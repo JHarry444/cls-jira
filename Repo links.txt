@@ -1,0 +1,7 @@
+Jira Delegate lab - https://github.com/AndySmithQA/Jira-Delegate-Lab (this is what they do in the lab itself)
+
+Instructor Demo (Jira based) - https://github.com/AndySmithQA/Jira-ticket-dev-lab
+
+Possible instructor demo lab (please replace this if you have a preferred demo repo) - https://github.com/AndySmithQA/FocusSync
+
+Platform lab for delegates - https://platform.qa.com/lab/introduction-to-cursor-1-11082026073405-1-14092026100522/
